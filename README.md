@@ -14,5 +14,5 @@ In order for collaboration to work over Git, you must update your .gitconfig fil
     
 **Example paths:**
 
-    Mac: /Volumes/Hard\ Drive/Applications/Unity/2019.4.15f1/Unity.app/Contents/Tools/UnityYAMLMerge
+    Mac: /Volumes/Hard Drive/Applications/Unity/2019.4.15f1/Unity.app/Contents/Tools/UnityYAMLMerge
     Windows: C:\Program Files\Unity\Editor\Data\Tools\UnityYAMLMerge.exe
